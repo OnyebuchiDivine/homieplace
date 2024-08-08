@@ -97,7 +97,7 @@ class UserProfile extends StatelessWidget {
                     ],
                   )
                   ),
-            ),
+            ),//This is a container
           ),
         ],
       ),
